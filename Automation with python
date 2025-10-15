@@ -13,7 +13,7 @@ file_types = {
     'Archives': ['.zip', '.rar', '.tar', '.gz'],
     'Scripts': ['.py', '.js', '.html', '.css'],
 }
-
+//need better code
 def organize_folder():
     for filename in os.listdir(downloads_folder):
         file_path = os.path.join(downloads_folder, filename)

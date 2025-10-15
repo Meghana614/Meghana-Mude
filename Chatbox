@@ -1,6 +1,7 @@
 print("About Chat Box Project")
 print("\U0001F916: \U0001F44B I am an  ChatBox")
 while True:
+//hi i am meenakshi
     user=input("You: ").lower()
     if user=="hello":
         print("\U0001F916: Hii! How can i help you?")

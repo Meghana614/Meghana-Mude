@@ -3,6 +3,7 @@ print("\U0001F916: \U0001F44B I am an  ChatBox")
 while True:
     user=input("You: ").lower()
     if user=="hello":
+//hello
         print("\U0001F916: Hii! How can i help you?")
     elif user=="how are you":
         print("\U0001F916: I am fine. can you tell about your doubt?")
